@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "chess-monitor",
+      "dependencies": {
+        "node-cron": "^4.5.0",
+      },
+    },
+  },
+  "packages": {
+    "node-cron": ["node-cron@4.5.0", "", {}, "sha512-4Trh+kjvbXokyJkwQumvD5YAgeJfgHLR/sKyu71uSmxfCR5QMO1hldpvmFZOICN5pLgNY+J5Y8+ar3XKo5/4tQ=="],
+  }
+}
